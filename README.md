@@ -1,4 +1,8 @@
-# BikeSharingDemandRegression
+# Bike Sharing Demand Prediction - Regression
+
+![banner](banner.jpg)
+
+<font size="1">Image Courtesy: https://www.behance.net/gallery/41746443/Seoul-Public-Bike-Brand-Identity-Design</font>
 
 Check the actual deployment of the model on a live server below.
 - [Deployment](http://yahyaansari62.pythonanywhere.com/)
