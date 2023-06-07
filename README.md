@@ -1,5 +1,7 @@
 # Bike Sharing Demand Prediction - Regression
 
+**AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/64265556656777/)
+
 ![banner](banner.jpg)
 
 <font size="1">Image Courtesy: https://www.behance.net/gallery/41746443/Seoul-Public-Bike-Brand-Identity-Design</font>
