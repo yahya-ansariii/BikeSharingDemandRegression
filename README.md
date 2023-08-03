@@ -1,3 +1,12 @@
+### Metadata
+
+| File Name    | File Type |       Description |  Link   |
+| --------- | ------- | -------------| ----------|
+| BikeSharingDemandPrediction_Regression.ipynb     |    Colab Notebook     |  	Contains code for ML model implementation of the project    |    [View](https://githubtocolab.com/yahya-ansariii/BikeSharingDemandRegression/blob/master/BikeSharingDemandPrediction_Regression.ipynb)    |
+| README.md    |    Markdown     |  The README file for the project    |    [View](https://github.com/yahya-ansariii/BikeSharingDemandRegression/blob/master/README.md)    |
+| SeoulBikeData.csv     |    CSV     |  A CSV file containing data used in the project    |    [View](https://github.com/yahya-ansariii/BikeSharingDemandRegression/blob/master/SeoulBikeData.csv)    |
+| banner.jpg     |    Image     |  	An image used in the readme of the project    |    [View](https://github.com/yahya-ansariii/BikeSharingDemandRegression/blob/master/banner.jpg)    |
+
 # Bike Sharing Demand Prediction - Regression
 
 **AlmaBetter Verified Project** - [**Credentials**](https://certificates.almabetter.com/en/verify/64265556656777/)
@@ -6,12 +15,8 @@
 
 <font size="1">Image Courtesy: https://www.behance.net/gallery/41746443/Seoul-Public-Bike-Brand-Identity-Design</font>
 
-Check the actual deployment of the model on a live server below.
-- [Deployment](http://yahyaansari62.pythonanywhere.com/)
-
-Click on the following link to checkout the video presentation and the colab file.
-- [Colab](https://github.com/novus-afk/BikeSharingDemandRegression/blob/master/BikeSharingDemandPrediction_Regression.ipynb)
-- [Video](https://youtu.be/l7jhMK51tyU)
+Check the actual **deployment of the model** on a live server below.
+- [**Deployment**](http://yahyaansari62.pythonanywhere.com/)
 
 
 ---
